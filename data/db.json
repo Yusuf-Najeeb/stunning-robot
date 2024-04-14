@@ -1,19 +1,14 @@
 {
   "items": [
     {
-      "id": 1,
+      "id": "1",
       "checked": false,
-      "item": "Golden Morning"
+      "item": "New Event"
     },
     {
-      "id": 2,
+      "id": "2",
       "checked": true,
-      "item": "Jollof Rice"
-    },
-    {
-      "id": 3,
-      "checked": true,
-      "item": "Pizza"
+      "item": "Prayers"
     }
   ]
 }
